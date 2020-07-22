@@ -1,0 +1,9 @@
+C:\Users\alter\source\repos\Figure\Figure\bin\Debug\netstandard2.0\Figure.deps.json
+C:\Users\alter\source\repos\Figure\Figure\bin\Debug\netstandard2.0\Figure.dll
+C:\Users\alter\source\repos\Figure\Figure\bin\Debug\netstandard2.0\Figure.pdb
+C:\Users\alter\source\repos\Figure\Figure\obj\Debug\netstandard2.0\Figure.csprojAssemblyReference.cache
+C:\Users\alter\source\repos\Figure\Figure\obj\Debug\netstandard2.0\Figure.AssemblyInfoInputs.cache
+C:\Users\alter\source\repos\Figure\Figure\obj\Debug\netstandard2.0\Figure.AssemblyInfo.cs
+C:\Users\alter\source\repos\Figure\Figure\obj\Debug\netstandard2.0\Figure.csproj.CoreCompileInputs.cache
+C:\Users\alter\source\repos\Figure\Figure\obj\Debug\netstandard2.0\Figure.dll
+C:\Users\alter\source\repos\Figure\Figure\obj\Debug\netstandard2.0\Figure.pdb

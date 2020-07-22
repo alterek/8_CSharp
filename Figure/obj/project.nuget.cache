@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DXQkuIR4fjDU6V1cV7wv86ycQqPPHZQdeGHGT3hZw9sBfpgVV9hY3G2PCi1RnuJo2q6DUakyUORcoLn0b916Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alter\\source\\repos\\Figure\\Figure\\Figure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alter\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alter\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
